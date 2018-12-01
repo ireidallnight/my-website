@@ -1,0 +1,15 @@
+p {
+    color: rgb(59, 98, 216);
+  }
+
+  body {
+      background-color: blue;
+  }
+
+  h1,h2,h3,a,strong{
+      color: white;
+  }
+
+  *,p {
+      color: silver;
+  }
